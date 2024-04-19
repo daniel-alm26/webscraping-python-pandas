@@ -40,7 +40,7 @@ Não necessita de instalação, pois é uma biblioteca padrão do Python, ou sej
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Ferramentas utilizadas para criar o projeto:
 
 * [Python](https://docs.python.org/3/) - Linguagem de programação.
 * [Pandas](https://pandas.pydata.org/docs/index.html) - Manipulação e análise de dados.
